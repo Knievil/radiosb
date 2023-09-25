@@ -1,12 +1,12 @@
 using System;
 
-namespace ShowBizRadio // Note: actual namespace depends on the project name.
+namespace ShowBizRadio // Note: Name temp depending on approval from Showbiz.com
 {
-    internal class Program
+    internal class Program 
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Running");
+            Console.WriteLine ("Running");
         }
     }
 }
